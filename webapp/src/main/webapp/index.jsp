@@ -4,4 +4,4 @@
 
 
 <img src="data:image/jpeg;base64,/url?sa=i&source=images&cd=&ved=2ahUKEwiey4mBtIfjAhVSx4sKHah4CGAQjRx6BAgBEAU&url=https%3A%2F%2Fapifriends.com%2Fmobile-app-dev%2Fdevops-for-mobile-apps%2F&psig=AOvVaw3aeSexC4Kswyw1GkxZBUwH&ust=1561647358548235/>
-<h2 style="color: green;"> Thanks !!!</b> </h2>
+<h2 style="color: green;"> </n>Thanks !!!</b> </h2>
